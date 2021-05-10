@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[70],{341:(t,e,s)=>{"use strict";s.r(e),s.d(e,{test1:()=>n,test2:()=>o});var n=function(){console.log("test1")},o=function(){console.log("test2")}}}]);
+//# sourceMappingURL=70.built.438ec329c1.js.map

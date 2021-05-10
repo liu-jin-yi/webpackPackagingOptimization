@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[253],{253:(e,s,t)=>{"use strict";t.r(s),t.d(s,{test1:()=>o,test2:()=>n});var o=function(){console.log("test1")},n=function(){console.log("test2")};console.log("加载index文件")}}]);
+//# sourceMappingURL=253.built.0cd6297c83.js.map

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/testTreeShaking.js"],"names":["test1","console","log","test2"],"mappings":"yHAAO,IAAMA,EAAQ,WACnBC,QAAQC,IAAI,UAGDC,EAAQ,WACnBF,QAAQC,IAAI","file":"70.built.438ec329c1.js","sourcesContent":["export const test1 = () => {\n  console.log(\"test1\");\n};\n\nexport const test2 = () => {\n  console.log(\"test2\");\n};\n"],"sourceRoot":""}
